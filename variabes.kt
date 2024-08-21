@@ -1,7 +1,7 @@
 import com.sun.jdi.IntegerType
 
 fun main() {
-  var a = readLine()!!.toInt()
+  val a = readLine()!!.toInt()
   val b = readLine()!!.toInt() // val is const type which value cant be changed
 
 //    var c:Int
