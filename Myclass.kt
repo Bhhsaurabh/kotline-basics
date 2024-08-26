@@ -41,6 +41,12 @@ class Myclass {
              // println(ar)
               ar++
           }
+          var i:Int = 2
+          // do while loop
+          do{
+              println("hello")
+              i++
+          }while(i<=10)
       }
     }
 }
